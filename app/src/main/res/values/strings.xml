@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">Makan Apa Ya</string>
+    <string name="btn_re_roll">Ulangi</string>
+
+    <string name="btn_roll_0">Makan Apa Ya?</string>
+    <string name="btn_roll_1">Kejutan Kuliner!</string>
+    <string name="btn_roll_2">Menu Misteri</string>
+    <string name="btn_roll_3">Pilih untuk Suka</string>
+    <string name="btn_roll_4">Petaka Piring</string>
+    <string name="btn_roll_5">Roda Rasa</string>
+    <string name="btn_roll_6">Kocok &amp; Lihat</string>
+    <string name="btn_roll_7">Makanan Misterius</string>
+    <string name="btn_roll_8">Keajaiban Kuliner</string>
+    <string name="btn_roll_9">Rasakan Nasib</string>
+    <string name="btn_roll_10">Ayo, Acak!</string>
+
+    <string name="btn_back">Back</string>
+
+    <string name="screen_add_restaurant">Add Restaurant</string>
+    <string name="input_name">Name</string>
+    <string name="input_open">Open Hour</string>
+    <string name="input_close">Close Hour</string>
+    <string name="input_menu">Menu</string>
+    <string name="input_invalid">Input Data Invalid</string>
+    <string name="btn_add_menu">Add Menu</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+
+    <string name="toast_restaurant_added">Restaurant Added</string>
+    <string name="toast_restaurant_deleted">Restaurant Deleted</string>
+    <string name="toast_restaurant_updated">Restaurant Updated</string>
+
+    <string name="info_no_restaurant_open">No Opened restaurant</string>
 </resources>
