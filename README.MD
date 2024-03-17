@@ -8,6 +8,6 @@ Android, Kotlin, Jetpack Compose
 
 **YouTube**
 
-[This Application does not collect precise information about the location of your mobile device.](https://www.youtube.com/watch?v=UVAqrKSUD0s)
+[Tutorial YouTube](https://www.youtube.com/watch?v=UVAqrKSUD0s)
 
 ---
